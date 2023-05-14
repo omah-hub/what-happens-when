@@ -227,7 +227,7 @@ DNS lookup
 
 ARP process
 -----------
-
+ARP means Address Resolution Protocol and its a procedure that connects an ever-changing internet protocol address to a fixed physical machine address.
 In order to send an ARP (Address Resolution Protocol) broadcast the network
 stack library needs the target IP address to lookup. It also needs to know the
 MAC address of the interface it will use to send out the ARP broadcast.
